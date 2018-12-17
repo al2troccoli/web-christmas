@@ -109,7 +109,6 @@ body {
   display: flex;
   width: 100%;
   height: auto;
-  outline: 2px solid blue;
   position: relative;
   align-self:stretch;
   padding: 1rem;
@@ -123,7 +122,6 @@ body {
   display: flex;
   width: 80%;
   height: auto;
-  outline: 2px solid red;
   align-self:stretch;
   margin-left: auto;
 }
